@@ -1,0 +1,4 @@
+machine:
+  build: .
+  volumes:
+    - ./code:/opt/fizz-buzz
