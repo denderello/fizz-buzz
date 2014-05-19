@@ -2,4 +2,3 @@ machine:
   build: .
   volumes:
     - ./code:/opt/fizz-buzz
-    - ./tmux.conf:/etc/tmux.conf
